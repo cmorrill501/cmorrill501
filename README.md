@@ -5,7 +5,7 @@ Email: cmorrill501@gmail.com • [LinkedIn](https://www.linkedin.com/in/christop
 ---
 
 ### 📄 Documentation & Portfolio
-> 📁 **[Click Here to View / Download My Complete Engineering Portfolio (PDF)](./Christopher_Morrill_Engineering_Portfolio.pdf)**
+> 📁 **[Click Here to View / Download My Complete Engineering Portfolio (PDF)](https://github.com/cmorrill501/cmorrill501/blob/main/Chirstopher_Morrill_Engineering_Portfolio.pdf)**
 
 ---
 
