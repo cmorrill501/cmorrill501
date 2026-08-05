@@ -1,6 +1,6 @@
 # Hi, I'm Christopher Morrill 👋
 **Electrical & Systems Integration Engineer** | Norwood, MA  
-[Email](mailto:cmorrill501@gmail.com) • [LinkedIn](https://www.linkedin.com/in/christopher-morrill-3b970223a/) • [GitHub](https://github.com/cmorrill501)
+[Email](cmorrill501@gmail.com) • [LinkedIn](https://www.linkedin.com/in/christopher-morrill-3b970223a/) • [GitHub](https://github.com/cmorrill501)
 
 ---
 
